@@ -20,9 +20,9 @@ Make sure to follow **Qwiklabs' Terms of Service** and **YouTube’s Community G
 ### 🚨 Copy and run the following commands in Cloud Shell:
 
 ```bash
-curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/App%20Engine%3A%20Qwik%20Start%20-%20Python/techcps067.sh
-sudo chmod +x techcps067.sh
-./techcps067.sh
+curl -LO raw.githubusercontent.com/DevCode/Google-Cloud-Skills-Boost/master/App%20Engine%3A%20Qwik%20Start%20-%20Python/devcode067.sh
+sudo chmod +x devcode067.sh
+./devcode067.sh
 ```
 ---
 ## ✅ Congratulations! You’ve successfully completed the lab! 😄
